@@ -8,10 +8,10 @@
 
 ## How to get started
 
-** Download the code and open in your editor
-** Install dependencies using `npm install` in both root folder and in backend folder
+* Download the code and open in your editor
+* Install dependencies using `npm install` in both root folder and in backend folder
     * `npm install`
     * `cd backend`
     * `npm install`
     * `cd ..`
-** Run both the frontend and backend simultaneusly using `npm run both` command
+* Run both the frontend and backend simultaneusly using `npm run both` command
