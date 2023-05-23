@@ -21,7 +21,7 @@ const AddNote = (props) => {
       <h2>Add Task</h2>
       <form>
         <div className="mb-3">
-          <label htmlFor="title" className="form-label">Title</label>
+          <label htmlFor="title" className="form-label">Task Description</label>
           <input type="text" className="form-control" id="title" name='title' min={3} required value={note.title} onChange={onChange}/>
         </div>
         

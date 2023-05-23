@@ -67,7 +67,7 @@ export const Notes = (props) => {
                         </div>
                         <div className="modal-footer">
                             <button type="button" ref={refClose} className="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                            <button  type="button" className="btn btn-primary" onClick={handleClick}>Update Note</button>
+                            <button  type="button" className="btn btn-primary" onClick={handleClick}>Update Task details</button>
                         </div>
                     </div>
                 </div>

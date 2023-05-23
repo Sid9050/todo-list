@@ -4,7 +4,7 @@ const About = () => {
     return (
         <div>
             <ul>
-                <li>You can add your </li>
+                <li>You can make a todo-list here </li>
             </ul>
         </div>
     )
